@@ -1,0 +1,10 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /icon3.png
+
+# Host
+Host: https://atakankaracali.com
+
+# Sitemaps
+Sitemap: https://atakankaracali.com/sitemap.xml

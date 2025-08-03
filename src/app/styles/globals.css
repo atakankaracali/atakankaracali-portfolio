@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #121212;
+  color: #e0e0e0;
+  margin: 0;
+  padding: 0;
+}
+:root {
+  --background-dark: #0a001f;
+  --foreground-dark: #ffffff;
+  --background-light: #ffffff;
+  --foreground-light: #171717;
+}
+
+[data-theme="dark"] {
+  background-color: var(--background-dark);
+  color: var(--foreground-dark);
+}
+
+[data-theme="light"] {
+  background-color: var(--background-light);
+  color: var(--foreground-light);
+}
+
+
+

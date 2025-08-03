@@ -1,0 +1,71 @@
+.projects-section {
+  padding: 100px 20px;
+  background-color: #121212;
+  text-align: center;
+}
+
+.projects-section:hover {
+  transform: translateY(-1px);
+  box-shadow: 0px 10px 25px rgba(79, 70, 229, 0.3);
+}
+
+.projects-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 8px;
+  text-align: center;
+}
+
+.projects-grid {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  flex-wrap: wrap;
+}
+
+.project-card {
+  background-color: #1e1e1e;
+  padding: 20px;
+  border-radius: 10px;
+  width: 300px;
+  text-align: center;
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.project-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0px 4px 15px rgba(79, 70, 229, 0.3);
+}
+
+.project-logo {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  margin-bottom: 12px;
+}
+
+.project-card h3 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 8px;
+  text-align: center;
+}
+
+.project-link {
+  display: inline-block;
+  margin-top: 12px;
+  padding: 8px 16px;
+  background-color: #6c63ff;
+  color: white;
+  font-weight: 500;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.project-link:hover {
+  background-color: #5146d8;
+}
+

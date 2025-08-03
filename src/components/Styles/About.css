@@ -1,0 +1,26 @@
+.about-section {
+    padding: 50px 20px;
+    text-align: center;
+    background-color: #1e1e1e;
+  }
+
+.about-section:hover {
+    transform: translateY(-1px);
+    box-shadow: 0px 10px 25px rgba(79, 70, 229, 0.3);
+  }
+
+  .about-title {
+    font-size: 36px;
+    font-weight: bold;
+    color: #ffffff;
+  }
+  
+  .about-text {
+    font-size: 18px;
+    color: #bdbdbd;
+    max-width: 900px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+  
+  
