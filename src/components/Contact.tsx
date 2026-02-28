@@ -32,7 +32,7 @@ export default function Contact() {
         <p>📧 E-mail: <a href="mailto:atakan.karacali17@gmail.com">atakan.karacali17@gmail.com</a></p>
         <p>📍 Location: Riga, Latvia</p>
         <p>📱 Phone: +371 29356847</p>
-        <p>🌍 Languages: Turkish - Native / English - B2 (CEFR) / Latvian - A1</p>
+        <p>🌍 Languages: Turkish - Native / English - C1 (CEFR) / Latvian - A1</p>
       </div>
       <div className="contact-links">
         <a href="https://www.linkedin.com/in/atakankaracali/" target="_blank">LinkedIn</a>

@@ -30,7 +30,7 @@ export default function Hero() {
         transition={{ duration: 1.5 }}
         className="hero-subtitle"
       >
-        Senior Frontend Engineer crafting clean, user-friendly interfaces. Lets build products people love to use.
+        Senior Full Stack Engineer crafting clean, user-friendly interfaces. Lets build products people love to use.
       </motion.p>
 
       <motion.button
