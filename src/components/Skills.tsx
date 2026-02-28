@@ -1,4 +1,3 @@
-import { DiScrum } from "react-icons/di";
 import "./Styles/Skills.css";
 import { FaReact, FaPython, FaDocker, FaCss3Alt, FaGit, FaLinux, FaNodeJs, FaUnity } from "react-icons/fa";
 import { SiRedux, SiNewrelic, SiTypescript, SiSelenium, SiKotlin, SiMongodb, SiCss3, SiDjango, SiFigma } from "react-icons/si";
