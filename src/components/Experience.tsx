@@ -10,9 +10,16 @@ export default function Experience() {
       <div className="experience-grid">
 
         <motion.div whileHover={{ scale: 1.05 }} className="experience-card">
+          <h3>Senior Fulstack Developer - Datwyler</h3>
+          <p><strong>Location:</strong> Riga, Latvia</p>
+          <p><strong>Duration:</strong> Jan 2025 - Present</p>
+          <p><strong>Technologies:</strong> React.js, TypeScript, Next.js, Redux, Ant Design, Tailwind CSS, GitLab, Docker, RestAPI</p>
+        </motion.div>
+
+        <motion.div whileHover={{ scale: 1.05 }} className="experience-card">
           <h3>Senior Frontend Developer - BonApp</h3>
           <p><strong>Location:</strong> Riga, Latvia</p>
-          <p><strong>Duration:</strong> Dec 2024 - Present</p>
+          <p><strong>Duration:</strong> Dec 2024 - Dec 2025</p>
           <p><strong>Technologies:</strong> React.js, TypeScript, Next.js, Redux, Ant Design, Tailwind CSS, Azure DevOps, Docker</p>
         </motion.div>
 

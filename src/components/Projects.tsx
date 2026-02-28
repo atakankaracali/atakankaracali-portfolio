@@ -66,17 +66,6 @@ export default function Projects() {
         </motion.div>
 
         <motion.div whileHover={{ scale: 1.02 }} className="project-card">
-          <img src="/projects/showcase-ui.png" alt="Game Card Showcase" className="project-image" />
-          <h3>Game Card UI Showcase</h3>
-          <p>
-            A clean and responsive UI component gallery built with HTML, CSS & JS. Demonstrates layout design without frameworks.
-          </p>
-          <a href="https://atakan-showcase.netlify.app/" target="_blank" className="project-link" rel="noreferrer">
-            View Showcase 🌐
-          </a>
-        </motion.div>
-
-        <motion.div whileHover={{ scale: 1.02 }} className="project-card">
           <img src="/projects/swedbank-form.png" alt="Swedbank Form Task" className="project-image" />
           <h3>Swedbank Application Form</h3>
           <p>

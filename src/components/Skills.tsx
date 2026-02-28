@@ -1,3 +1,4 @@
+import { DiScrum } from "react-icons/di";
 import "./Styles/Skills.css";
 import { FaReact, FaPython, FaDocker, FaCss3Alt, FaGit, FaLinux, FaNodeJs, FaUnity } from "react-icons/fa";
 import { SiRedux, SiNewrelic, SiTypescript, SiSelenium, SiKotlin, SiMongodb, SiCss3, SiDjango, SiFigma } from "react-icons/si";
@@ -23,7 +24,7 @@ export default function Skills() {
         <div className="skill-card"><FaCss3Alt size={40} color="#1572B6" /> Tailwind CSS</div>  
         <div className="skill-card"><FaUnity size={40} color="#808080" /> Unity 3D</div>  
         <div className="skill-card"><SiMongodb size={40} color="#228B22" /> MongoDB</div>
-        <div className="skill-card"><SiFigma size={40} color="#2496ED" /> Figma</div>    
+        <div className="skill-card"><SiFigma size={40} color="#2496ED" /> Figma</div>
       </div>
     </section>
   );
