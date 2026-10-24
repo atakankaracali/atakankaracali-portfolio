@@ -32,11 +32,13 @@ export default function Contact() {
         <p>📧 E-mail: <a href="mailto:atakan.karacali17@gmail.com">atakan.karacali17@gmail.com</a></p>
         <p>📍 Location: Riga, Latvia</p>
         <p>📱 Phone: +371 29356847</p>
-        <p>🌍 Languages: Turkish - Native / English - C1 (CEFR) / Latvian - A1</p>
+        <p>📱 Business Phone: +371 20212899</p>
+        <p>🌍 Languages: Turkish - Native / English - C1 (CEFR) / Latvian - A2</p>
       </div>
       <div className="contact-links">
         <a href="https://www.linkedin.com/in/atakankaracali/" target="_blank">LinkedIn</a>
         <a href="https://github.com/atakankaracali" target="_blank">GitHub</a>
+        <a href="https://www.letonyasayfam.com/" target="_blank">Letonya Sayfam</a>
       </div>
       {showButton && (
         <ScrollLink to="hero" smooth={true} duration={700} className="go-up-button">

@@ -6,8 +6,8 @@ import { FaGithub, FaLinkedin } from "react-icons/fa";
 export default function Hero() {
   const handleDownloadCV = () => {
     const link = document.createElement("a");
-    link.href = "/Karacali-CV.pdf";
-    link.download = "Karacali-CV.pdf";
+    link.href = "/10-Karacali-CV.pdf";
+    link.download = "10-Karacali-CV.pdf";
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);

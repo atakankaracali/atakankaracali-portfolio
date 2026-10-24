@@ -12,7 +12,7 @@ export default function Experience() {
         <motion.div whileHover={{ scale: 1.05 }} className="experience-card">
           <h3>Senior Full Stack Developer - Datwyler</h3>
           <p><strong>Location:</strong> Riga, Latvia</p>
-          <p><strong>Duration:</strong> Jan 2025 - Present</p>
+          <p><strong>Duration:</strong> Jan 2026 - Oct 2026</p>
           <p><strong>Technologies:</strong> React.js, TypeScript, Next.js, Redux, Ant Design, Tailwind CSS, GitLab, Docker, RestAPI</p>
         </motion.div>
 
